@@ -1,8 +1,8 @@
 # Emotion and Gender Classification Computer Vision Project 
 
 ## 👷🏻‍♀️ Why did I build this?
-Exploring something new and exposing myself to the domain of Computer Vision! Utilised keras (VGG16), OpenCV (Caffe) and Streamlit
-
+Exploring something new and exposing myself to the domain of Computer Vision! Utilised keras (VGG16), OpenCV (Caffe) and Streamlit. 
+Streamlit site ran locally and models are not uploaded as it was too big 
 
 ## 💻 User Interface built using Streamlit
 ### sad male
