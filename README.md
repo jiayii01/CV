@@ -5,8 +5,5 @@ Exploring something new and exposing myself to the domain of Computer Vision! Ut
 Streamlit site ran locally and models are not uploaded as it was too big 
 
 ## 💻 User Interface built using Streamlit
-### sad male
 ![ezgif com-video-to-gif](https://github.com/jiayii01/CV/assets/79521323/d42441d9-adb7-48d2-8155-d1c20b77356f)
 
-### angry female
-![image](https://github.com/jiayii01/CV/assets/79521323/7cfedfd6-149c-4013-a733-0c6b8ac5e444)
